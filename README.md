@@ -1,2 +1,2 @@
-# Egitim_Materyalleri
+# Egitim Materyalleri
 **YouTube videolarında kullandığım materyalleri indirerek sizler de kullanabilirsiniz.**
