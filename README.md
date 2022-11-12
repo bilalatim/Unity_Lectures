@@ -1,6 +1,6 @@
 # Unity Hub / Unity / Visiual Studio Cod Kurulumu
 
-### 1. Adım: Unity Hub'ı indiriyoruz
+### 1. Adım: Unity Hub'ı indirme
 
   >[**https://unity3d.com/get-unity/download**](https://unity3d.com/get-unity/download) **tıklayarak Unity'nin resmi sitesini açıyoruz ve Unity Hub' ı indiriyoruz.** 
   
@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/82322653/201467807-3124d1ca-c877-4fea-88ca-c09435efc521.png)
 
-### 2. Adım: Visual Studio Code'u indiriyoruz
+### 2. Adım: Visual Studio Code'u indirme
 
   >[**https://code.visualstudio.com/Download**](https://code.visualstudio.com/Download) tıklayarak Visiual Studio Cod'u indirebilirsiniz.
   
@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/82322653/201472661-939ceea9-9379-4997-b248-2cb96e241ac1.png)
 
-### 3. Adım: .Net 6.0'ı indiriyoruz
+### 3. Adım: .Net 6.0'ı indirme
 
   >[**https://dotnet.microsoft.com/en-us/download**](https://dotnet.microsoft.com/en-us/download) tıklayarak .NET 6.0 ı indireceğiz. Daha sonra bilgisayarı kapat aç yapmalıyız. %PATH% etkilenmesi için
   
@@ -47,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/82322653/201497327-2bcecb78-80d3-4dfe-87e5-c31fe4a2335a.png)
 
-### 5. Adım Projeyi Visiual Studio Code içerisinde açmak
+### 5. Adım Visiual Studio Code uzantılarını yükleme
   
   >Unity içerisinden > Edit > Preferences > External Tools > External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
 
@@ -60,5 +60,8 @@
   >[**https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471**](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471) tıklayarak .Net 4.7.1 Developer Framework'ü indiriyoruz (bunu yüklemediğimizde otomatik doldurma vs yapamıyoruz her şeyi harf harf yazmak çok sinir bozucu o yüzden indirmeliyiz)
 
   >Asset > Open C# project or File > Preferences >External Tools > Regenerate Project File (Bu şekilde projeyi Visual Studio Code içerisinde açıyoruz.)
+
+![image](https://user-images.githubusercontent.com/82322653/201497413-84523ab6-cedd-45d3-a57b-d8ea1f830849.png)
+
 
 **Hepsi Bu Kadar Oyun Yapmaya Başlayalım** 😸
