@@ -64,4 +64,4 @@
 ![image](https://user-images.githubusercontent.com/82322653/201497413-84523ab6-cedd-45d3-a57b-d8ea1f830849.png)
 
 
-**Hepsi Bu Kadar Oyun Yapmaya Başlayalım** 😸
+**Hepsi Bu Kadar Hadi Oyun Yapmaya Başlayalım** 😸
