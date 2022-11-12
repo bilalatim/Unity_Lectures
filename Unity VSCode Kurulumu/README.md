@@ -37,7 +37,7 @@
 
 ![image](https://user-images.githubusercontent.com/82322653/201472661-939ceea9-9379-4997-b248-2cb96e241ac1.png)
 
-### 3. Adım: .Net 6.0'ı indirme
+### 4. Adım: .Net 6.0'ı indirme
 
   >[**https://dotnet.microsoft.com/en-us/download**](https://dotnet.microsoft.com/en-us/download) tıklayarak .NET 6.0 ı indireceğiz. Daha sonra bilgisayarı kapat aç yapmalıyız. %PATH% etkilenmesi için
   
