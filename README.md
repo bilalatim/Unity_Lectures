@@ -1,18 +1,21 @@
-# Egitim Materyalleri
-**YouTube videolarında kullandığım materyalleri indirerek sizler de kullanabilirsiniz.**
+# Unity Hub / Unity / Visiual Studio Cod Kurulumu
 
-[Buraya](https://unity3d.com/get-unity/download) tıklayarak Unity Hub'ı indirebilirsiniz.
+### Aşağıdaki adımları izleyerek kolaylıkla Unity ve Visiual Studio kod kurulumunu tamamlayabilirsiniz.
 
-[Buraya](https://dotnet.microsoft.com/en-us/download) tıklayarak .NET 6.0 ı indireceğiz. Daha sonra bilgisayarı kapat aç yapmalıyız. %PATH% etkilenmesi için
+- [ ] [**Buraya**](https://unity3d.com/get-unity/download) tıklayarak Unity Hub'ı indirebilirsiniz.
 
-Unity içerisinden > Edit > Preferences > External Tools > External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
+- [ ] [**Buraya**](https://code.visualstudio.com/Download) tıklayarak Visiual Studio Cod'u indirebilirsiniz.
 
-Unity içerisinden > Package Manager > Visiual Studio Code Editor > install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
+- [ ] [**Buraya**](https://dotnet.microsoft.com/en-us/download) tıklayarak .NET 6.0 ı indireceğiz. Daha sonra bilgisayarı kapat aç yapmalıyız. %PATH% etkilenmesi için
 
-Extensions kısmını açıp > C#, Unity Tools, Unity Code Snippets,  .NET  uzantılarını yüklüyoruz. Bu araçlar kod yazmamızı ve yazdığımız kodu anlamamızı kolaylaştırıyor.
+- [ ] Unity içerisinden > Edit > Preferences > External Tools > External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
 
-[Buraya](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471) tıklayarak .Net 4.7.1 Developer Framework'ü indiriyoruz (bunu yüklemediğimizde otomatik doldurma vs yapamıyoruz her şeyi harf harf yazmak çok sinir bozucu o yüzden indirmeliyiz)
+- [ ] Unity içerisinden > Package Manager > Visiual Studio Code Editor > install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
 
-Asset > Open C# project or File > Preferences >External Tools > Regenerate Project File : projeyi komple visual studio içerisinde açıyoruz.
+- [ ] Extensions kısmını açıp > C#, Unity Tools, Unity Code Snippets,  .NET  uzantılarını yüklüyoruz. Bu araçlar kod yazmamızı ve yazdığımız kodu anlamamızı kolaylaştırıyor.
 
-Hepsi Bu Kadar İzlediğiniz için Teşekkürler :)
+- [ ] [**Buraya**](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471) tıklayarak .Net 4.7.1 Developer Framework'ü indiriyoruz (bunu yüklemediğimizde otomatik doldurma vs yapamıyoruz her şeyi harf harf yazmak çok sinir bozucu o yüzden indirmeliyiz)
+
+- [ ] Asset > Open C# project or File > Preferences >External Tools > Regenerate Project File (Bu şekilde projeyi Visual Studio Code içerisinde açıyoruz.)
+
+Hepsi Bu Kadar 😸
