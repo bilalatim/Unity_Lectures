@@ -45,7 +45,7 @@
   
   >arama kısmına cmd yazarak terminali(komut istemini) açıyoruz. Daha sonra **dotnet** yazıyoruz karşımıza **usage, options, path** kısımları çıkıyorsa kurulumu başarılı bir şekilde gerçekleştirmişiz demektir. 
   
-    >Unity içerisinden > Edit > Preferences > External Tools > External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
+  >Unity içerisinden > Edit > Preferences > External Tools > External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
 
   >Unity içerisinden > Package Manager > Visiual Studio Code Editor > install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
 
