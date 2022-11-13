@@ -56,7 +56,7 @@
 
   >Daha sonra yeni proje kısmında 2D veya 3D kısmını seçerek ilk projemizi oluşturup Unity'i açıyoruz.(Projenin ilk açılması biraz uzun sürebilir.)
 
-  >Unity içerisinden > Window > Package Manager > Visiual Studio Code Editor > install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
+  >Unity içerisinden -> Window -> Package Manager -> Visiual Studio Code Editor -> install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
 
   >Unity içerisinden -> Edit -> Preferences -> External Tools -> External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
   
