@@ -13,6 +13,7 @@
 ![image](https://user-images.githubusercontent.com/82322653/201467807-3124d1ca-c877-4fea-88ca-c09435efc521.png)
 
 ### 2. Adım: Unity'de aktif lisans alma ve son sürümü indirme
+  
   >Unity indirmek için üyelik oluşturmanız gerekiyor. [https://id.unity.com/account/new](https://id.unity.com/account/new) kısmına tıklayarak üyelik oluşturabilir ve öğrenci veya bireysel üyelik açarak lisansınız edinebilirsiniz. 
   
   >Unity Huba giriş yaparak son sürüm Unity'i indirebilirsiniz.
@@ -34,6 +35,8 @@
   >Ek işlemler kısmında **tüm kutucukları işaretleyip** ***sonraki*** kısma geçiyoruz.
   
   >**Kur** diyerek kurulumu tamamlıyoruz ve **Bitir** kısmına tıklayarak kurulumu tamamlayıp VSCode' u açıyoruz.
+  
+  >Extensions kısmını açıp -> C#, Unity Tools, Unity Code Snippets,  .NET  uzantılarını yüklüyoruz. Bu araçlar kod yazmamızı ve yazdığımız kodu anlamamızı kolaylaştırıyor.
 
 ![image](https://user-images.githubusercontent.com/82322653/201472661-939ceea9-9379-4997-b248-2cb96e241ac1.png)
 
@@ -44,23 +47,19 @@
   >dotnet-sdk-6.0.exe dosyasını açarak kurlumu yapıyoruz.
   
   >arama kısmına cmd yazarak terminali(komut istemini) açıyoruz. Daha sonra **dotnet** yazıyoruz karşımıza **usage, options, path** kısımları çıkıyorsa kurulumu başarılı bir şekilde gerçekleştirmişiz demektir. 
-  
-  >Unity içerisinden > Edit > Preferences > External Tools > External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
-
-  >Unity içerisinden > Package Manager > Visiual Studio Code Editor > install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
-
-  >Extensions kısmını açıp > C#, Unity Tools, Unity Code Snippets,  .NET  uzantılarını yüklüyoruz. Bu araçlar kod yazmamızı ve yazdığımız kodu anlamamızı kolaylaştırıyor.
 
 ![image](https://user-images.githubusercontent.com/82322653/201496750-2a282142-8289-4732-9d03-e76813377f34.png)
-
 
 ### 5. Adım .Net 4.7.1'i indirmek (VSCode kısmında otomatik doldurma için)
 
   >[**https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471**](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471) tıklayarak .Net 4.7.1 Developer Framework'ü indiriyoruz (bunu yüklemediğimizde otomatik doldurma vs yapamıyoruz her şeyi harf harf yazmak çok sinir bozucu o yüzden indirmeliyiz)
+  
+  >Unity içerisinden > Package Manager > Visiual Studio Code Editor > install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
 
-  >Asset > Open C# project or File > Preferences >External Tools > Regenerate Project File (Bu şekilde projeyi Visual Studio Code içerisinde açıyoruz.)
+  >Unity içerisinden -> Edit -> Preferences > External Tools -> External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
+  
+  >Asset -> Open C# project or File -> Preferences >External Tools -> Regenerate Project File (Bu şekilde projeyi Visual Studio Code içerisinde açıyoruz.)
 
 ![image](https://user-images.githubusercontent.com/82322653/201497413-84523ab6-cedd-45d3-a57b-d8ea1f830849.png)
-
 
 **Hepsi Bu Kadar Hadi Oyun Yapmaya Başlayalım** 😸
