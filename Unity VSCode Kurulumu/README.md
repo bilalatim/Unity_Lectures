@@ -56,7 +56,7 @@
   
   >Unity içerisinden > Package Manager > Visiual Studio Code Editor > install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
 
-  >Unity içerisinden -> Edit -> Preferences > External Tools -> External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
+  >Unity içerisinden -> Edit -> Preferences -> External Tools -> External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
   
   >Asset -> Open C# project or File -> Preferences >External Tools -> Regenerate Project File (Bu şekilde projeyi Visual Studio Code içerisinde açıyoruz.)
 
