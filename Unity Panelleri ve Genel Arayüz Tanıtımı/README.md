@@ -39,7 +39,7 @@
 ### Game Paneli
 ![Editor-PlayButtons](https://user-images.githubusercontent.com/82322653/201734044-e037cbdb-bc48-4834-9752-387f9baf0712.png)
 
->**Play tuşuna basıldıktan sonra oyunun simülasyonu (aslında oyunun kendisidir :smile:) diyebiliriz. Oyunu oynayan kullanıcının görebildiklerini görebiliriz. Etkileşimimiz sınırlıdır. Bu pencerede sadece kullanıcıların yapabildiklerini yapabiliriz.**
+>**Play tuşuna basıldıktan sonraki oyunun simülasyonudur (aslında oyunun kendisidir :smile:) diyebiliriz. Oyunu oynayan kullanıcının görebildiklerini görebiliriz. Etkileşimimiz sınırlıdır. Bu pencerede sadece kullanıcıların yapabildiklerini yapabiliriz.**
 
 ![game-view-window](https://user-images.githubusercontent.com/82322653/201734071-761a3502-be06-4b0f-9903-b19e7fd8a741.png)
 
