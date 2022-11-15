@@ -4,6 +4,6 @@
 
 ## 2) Unity Panelleri ve Genel Arayüz Tanıtımı
 
-## 3) C# Dersleri
+## 3) 0'dan C# Eğitimi
 
 ## 4) İlk Oyunumuzu Kodluyoruz
