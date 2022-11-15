@@ -33,9 +33,9 @@
 ### 3. Adım: .Net 6.0'ı indirme
 
   >[**https://dotnet.microsoft.com/en-us/download**](https://dotnet.microsoft.com/en-us/download) tıklayarak .NET 6.0 ı indireceğiz.
-  
+  >
   >dotnet-sdk-6.0.exe dosyasını açarak kurlumu yapıyoruz.
-  
+  >
   >arama kısmına cmd yazarak terminali(komut istemini) açıyoruz. Daha sonra **dotnet** yazıyoruz karşımıza **usage, options, path** kısımları çıkıyorsa kurulumu başarılı bir şekilde gerçekleştirmişiz demektir. 
 
 ![image](https://user-images.githubusercontent.com/82322653/201496750-2a282142-8289-4732-9d03-e76813377f34.png)
@@ -55,7 +55,7 @@
   >Unity Huba giriş yaparak son sürüm Unity'i indirebilirsiniz. İndirme öncesinde lisansınızı edinmeniz gerekecektir. Lisans işlemini tamamladıktan sonra Unity'nin son sürümünü indirebilirsiniz. Ben de sürekli güncel son sürümü kullanmaya çalışacağım.
   >
   >Daha sonra yeni proje kısmında 2D veya 3D kısmını seçerek ilk projemizi oluşturup Unity'i açıyoruz.(Projenin ilk açılması biraz uzun sürebilir.)
-  >
+  
   >Unity içerisinden -> Window -> Package Manager -> Visiual Studio Code Editor -> install kısmına tıklayarak en güncel sürümünü yüklüyoruz.
   >
   >Unity içerisinden -> Edit -> Preferences -> External Tools -> External Script Editor kısmına geliyoruz ve Visiual Studio Code kısmını seçiyoruz.(Dosyalarımızın visual studio code içerisinde açılmasını sağlamak için bunu yapıyoruz.)
