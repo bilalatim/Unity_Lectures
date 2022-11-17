@@ -32,11 +32,12 @@
   >
   >**Bu sorunun cevabı sürekli kendimizi tekrar etmemek için. Örneğin "A" karakteri 1 kere zıplayabiliyor ama "B" karakteri iki kere zıplayabiliyor. Aynı kodu çok ufak değişikliklerle iki kere yazmak yerine bir fonksiyon yazıyoruz. Peki bu fonksiyonun "A" karakterinin 1 kere "B" karakterinin 2 kere zıplamasını sağlaması için ne kullanıyoruz?**
   >
-  >**Parametre kullanıyoruz. Parametre kısaca fonksiyona dışarıdan verilen bir variable yani değişken. Örneğin zıplama fonksiyonumuza biz zıplama sayısı adında bir int(sayı) değişkeni veriyoruz. Fonksiyon bu değer bir ise bir kere zıplamasını sağlıyor, 2 ise 2 kere zıplamasını sağlıyor. Bu değeri ne zaman yazıyoruz peki? TAbiki fonksiyonu çağırdığımız zaman kaç zıplama olacağını da yazıyoruz.** 
+  >**Parametre kullanıyoruz. Parametre kısaca fonksiyona dışarıdan verilen bir variable yani değişken. Örneğin zıplama fonksiyonumuza biz zıplama sayısı adında bir int(sayı) değişkeni veriyoruz. Fonksiyon bu değer bir ise bir kere zıplamasını sağlıyor, 2 ise 2 kere zıplamasını sağlıyor. Bu değeri ne zaman yazıyoruz peki? Tabiki fonksiyonu çağırdığımız zaman kaç zıplama olacağını da yazıyoruz.** 
   >
   >Örneğin: **void zıplama_fonksiyonu(2)** parametre olarak 2 sayısını almış.
   >
-  
+  >Örneğin: print() de bir fonksiyondur. Consola bir şey yazdırma görevi için kullandığımız bir fonksiyondur. İçerisine yazdığınız değeri veya yazıyı yazdırır.
+  >
   
   //buraya resim gelecek
   
