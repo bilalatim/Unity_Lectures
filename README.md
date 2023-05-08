@@ -1,54 +1,23 @@
-# Various Versions of Quick Sort Performance Testing
+# How will you add your api request page to frontend?
+## **Important!** After making your changes, open a pull request without pushing directly and don't forget to add the front-end team as a reviewer. 
+#### 1) On your request page, you can get 3 types of input from the user.
 
-This ptyhon code is a program to test the performance of the Quick Sort algorithm with different input sizes, ranges, cases, and versions of the algorithm.
-There are four version of algorithm:
+![image](https://user-images.githubusercontent.com/82322653/236806288-36b0754b-3811-430a-bb34-0df1f7c27b13.png)
 
-1) **Classical Deterministic Quicksort Algorithm**: The pivot is chosen as the first element of the list. 
-2) **Quicksort (1st version) Algorithm**: The pivot is chosen randomly.
-3) **Quicksort (2st version) Algorithm**: The list is first randomly generated and then the classical deterministic algorithm is called where the pivot is chosen as the first element of the list.
-4) **The Deterministic Quicksort Algorithm**: The pivot is chosen according to the **“median of three”** rule.
+| Text Input | Select Input | Button |
+| --- | --- | --- |
+| You can get the input that the user writes in the text section. |You can take the selected option as input by providing options to the user. | You can get whether the button is pressed or not as an input.|
+| Text Input has 3 fields. **type** must be "text", **name** must be a unique name and **label** should be the label name. | Select Input has 4 fields. **type** must be "select", **name** must be a unique name, **label** should be the label name ,and options is an array whose elements are dictionary. Elements have two keys, name and value.  | Button has 1 field "**buttonText**" that is the name of the button |
 
-## Dependencies
+#### 2) You need to write your elements correctly in the "apidata.js" file.
+* /api/"your_api_page_url_extension" to do that first add an element to apidata dictionary which in apidata.js.
+* Your element key must be "your_api_page_url_extension".
+* Value of element key is a dictionary which has 2 element. First element is name and must be unique. Second element is form which its value is also a dictionary.
+* In form objects value there are 2 elements. First element is buttonText and its value is text on the button. Second element is input and its value is also a dictionary.
+* In input objects value, we can add as many input elements as we want to the input object value dictionary from the above input elements.
 
-This code requires the following python libraries:
+#### 3) Check the below example and its output
+![image](https://user-images.githubusercontent.com/82322653/236811638-52666c80-9907-412e-b052-9ac802d7eb25.png) 
+![image](https://user-images.githubusercontent.com/82322653/236812138-a491e7ce-38b9-4369-88ef-7f2a5b39dee3.png)
 
-* argparse
-* random
-* sys
-* time
-
-## Usage
-
-To run the code, first go directory of file and use the following command:
-
-- python main.py
-
-To test spesific size, case or version you can use following optional arguments:
-
-**-v or --version {classical,randomized_pivot,randomized_permutation,median,all}**    (the version of the Quick Sort algorithm to use, default : all)
-
-**-n or --size N**        (the size of the input data)
-
-**-r R, --range R**      (the range of the input data)
-
-**-c or --case {average,worst,both}**        (the case of the input data)
-
-## Output
-
-The code will print the results of the Quick Sort performance tests to the console. The results will include the input size, range, case, and version of the Quick Sort algorithm, as well as the time it took to run the algorithm on the input data and also input array.
-
-## Example Input
-
-python main.py -v classical -n 10 -r 10 -c average
-
-## Example Output
-Data size 10:
-
-        Input type InpType1 with range [1, 100]:
-                Algorithm classical as version of Ver1:
-                        Input1 (average)= [20, 45, 33, 31, 11, 11, 8, 71, 57, 38]
-                        Input2 (average)= [48, 12, 47, 3, 93, 90, 49, 80, 72, 17]
-                        Input3 (average)= [50, 75, 35, 12, 44, 63, 9, 7, 70, 33]
-                        Input4 (average)= [13, 87, 25, 69, 90, 17, 41, 88, 70, 35]
-                        Input5 (average)= [70, 6, 37, 77, 34, 96, 73, 56, 92, 38]
-                        Duration for Case1 (average case): 0.0
+## **Important!** After making your changes, open a pull request without pushing directly and don't forget to add the front-end team as a reviewer. 
